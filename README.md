@@ -1,1 +1,1 @@
-# WSB-TheInvestor-sGame
+# WSBTheInvestorsGame
